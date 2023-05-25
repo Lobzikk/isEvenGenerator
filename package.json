@@ -1,0 +1,18 @@
+{
+  "name": "isevengenerator",
+  "version": "1.0.0",
+  "description": "Generates module that allows you to check if numbers are even or not in given range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Math",
+    "JS"
+  ],
+  "author": "Lobzikk",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
